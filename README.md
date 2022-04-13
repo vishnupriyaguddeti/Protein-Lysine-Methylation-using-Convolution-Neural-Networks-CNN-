@@ -1,4 +1,4 @@
-# Protein-Lysine-Methylation-using-Convolution-Neural-Networks-CNN
+# Protein-Lysine-Methylation-using-Convolution-Neural-Network-CNN
 
 Lysine (Protein) methylation sites are identified accurately using Convolutional Neural Networks (CNN).
 
